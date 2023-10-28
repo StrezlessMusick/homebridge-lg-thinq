@@ -49,8 +49,8 @@
   "author": "",
   "dependencies": {
     "@homebridge/plugin-ui-utils": "^0.0.19",
-    "aws-iot-device-sdk": "^2.2.11",
-    "axios": "^0.21.1",
+    "aws-iot-device-sdk": "^2.2.13",
+    "axios": "^1.6.0",
     "axios-retry": "^3.1.9",
     "commander": "^8.2.0",
     "luxon": "^2.0.1",
